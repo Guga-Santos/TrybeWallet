@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.02499b5e.chunk.css",
-    "main.js": "/static/js/main.64add1ee.chunk.js",
-    "main.js.map": "/static/js/main.64add1ee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e8df815d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e8df815d.js.map",
-    "static/js/2.e7d92441.chunk.js": "/static/js/2.e7d92441.chunk.js",
-    "static/js/2.e7d92441.chunk.js.map": "/static/js/2.e7d92441.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c57d79fed29e47b96f8f77c10e921ae6.js": "/precache-manifest.c57d79fed29e47b96f8f77c10e921ae6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.02499b5e.chunk.css.map": "/static/css/main.02499b5e.chunk.css.map",
-    "static/js/2.e7d92441.chunk.js.LICENSE.txt": "/static/js/2.e7d92441.chunk.js.LICENSE.txt",
-    "static/media/image01.svg": "/static/media/image01.2b8540b2.svg",
-    "static/media/purchases.svg": "/static/media/purchases.d50ea9b3.svg"
+    "main.css": "/TrybeWallet/static/css/main.02499b5e.chunk.css",
+    "main.js": "/TrybeWallet/static/js/main.712b0cbe.chunk.js",
+    "main.js.map": "/TrybeWallet/static/js/main.712b0cbe.chunk.js.map",
+    "runtime-main.js": "/TrybeWallet/static/js/runtime-main.e31e136f.js",
+    "runtime-main.js.map": "/TrybeWallet/static/js/runtime-main.e31e136f.js.map",
+    "static/js/2.e7d92441.chunk.js": "/TrybeWallet/static/js/2.e7d92441.chunk.js",
+    "static/js/2.e7d92441.chunk.js.map": "/TrybeWallet/static/js/2.e7d92441.chunk.js.map",
+    "index.html": "/TrybeWallet/index.html",
+    "precache-manifest.e77483a52dc9e097fec10c1f4237c03c.js": "/TrybeWallet/precache-manifest.e77483a52dc9e097fec10c1f4237c03c.js",
+    "service-worker.js": "/TrybeWallet/service-worker.js",
+    "static/css/main.02499b5e.chunk.css.map": "/TrybeWallet/static/css/main.02499b5e.chunk.css.map",
+    "static/js/2.e7d92441.chunk.js.LICENSE.txt": "/TrybeWallet/static/js/2.e7d92441.chunk.js.LICENSE.txt",
+    "static/media/image01.svg": "/TrybeWallet/static/media/image01.2b8540b2.svg",
+    "static/media/purchases.svg": "/TrybeWallet/static/media/purchases.d50ea9b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8df815d.js",
+    "static/js/runtime-main.e31e136f.js",
     "static/js/2.e7d92441.chunk.js",
     "static/css/main.02499b5e.chunk.css",
-    "static/js/main.64add1ee.chunk.js"
+    "static/js/main.712b0cbe.chunk.js"
   ]
 }
